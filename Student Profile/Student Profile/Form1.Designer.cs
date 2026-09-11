@@ -48,7 +48,7 @@
             label2.Name = "label2";
             label2.Size = new Size(213, 20);
             label2.TabIndex = 1;
-            label2.Text = "Contact Number: 09531914079";
+            label2.Text = "Contact Number: 09531914076";
             // 
             // Form1
             // 
